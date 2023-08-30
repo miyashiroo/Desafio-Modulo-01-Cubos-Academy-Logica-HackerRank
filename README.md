@@ -15,4 +15,4 @@ Para rodar é necessário digitar no terminal, dentro da pasta onde o arquivo se
 
 ![comando node-js](/img/comando-terminal.png)
 
-![Resultado do Programa](/img/resultado.png)
+![Resultado do Programa](/img/resultado-atualizado.png)
