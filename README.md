@@ -15,4 +15,6 @@ Para rodar é necessário digitar no terminal, dentro da pasta onde o arquivo se
 
 ![comando node-js](/img/comando-terminal.png)
 
+Exemplo de quando se chama o programa e ele retorna o resultado no terminal:
+
 ![Resultado do Programa](/img/resultado-atualizado.png)
