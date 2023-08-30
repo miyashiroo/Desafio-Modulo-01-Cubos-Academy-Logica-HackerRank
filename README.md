@@ -2,8 +2,8 @@
 
 ## Sobre
 
-Este repositório é feito de exercicios propostos no Desafio De Back-End proposto pela Cubos Academy. Trata-se de questões relacionadas ao primeiro módulo do curso.
-Estes exercicios foram feitos dentro do HackerRank, logo passando por diversos testes de validação,e as soluções foram colocadas aqui, separadas por pastas com o nome de cada exercicio.
+Este repositório é feito de exercicios propostos no Desafio De Back-End feito pela Cubos Academy. Trata-se de questões relacionadas ao primeiro módulo do curso de Back-End.
+Os exercicios foram feitos dentro do HackerRank, logo passando por diversos testes de validação, e as soluções foram colocadas aqui, separadas por pastas com o nome de cada exercicio.
 
 ## Como Rodar
 
