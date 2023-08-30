@@ -13,9 +13,6 @@ Vale lembrar que é apresentado somente as funções solução, para testar é p
 
 Para rodar é necessário digitar no terminal, dentro da pasta onde o arquivo se encontra, o seguinte comando: node index.js (nome padrão de todos os exercicios) como no exemplo:
 
-![comando node-js](https://imgur.com/PgVNyjL)
+![comando node-js](/img/comando-terminal.png)
 
-![Resultado do Programa](https://imgur.com/a/V7qUFre)
-
-https://imgur.com/PgVNyjL - comando node-js
-https://imgur.com/a/V7qUFre - PROGRAMA EXECUTADO
+![Resultado do Programa](/img/resultado.png)
