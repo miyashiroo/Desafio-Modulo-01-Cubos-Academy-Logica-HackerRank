@@ -1,11 +1,11 @@
 # Desafio Modulo 01 - Cubos Academy Logica de Programação no HackerRank
 
-## Sobre 🗨️
+## 🗨️ Sobre 
 
 Este repositório é feito de exercicios propostos no Desafio De Back-End feito pela Cubos Academy. Trata-se de questões relacionadas ao primeiro módulo do curso de Back-End.
 Os exercicios foram feitos dentro do HackerRank, logo passando por diversos testes de validação, e as soluções foram colocadas aqui, separadas por pastas com o nome de cada exercicio.
 
-## Como Rodar ❔
+## ❔ Como Rodar 
 
 Todos os exercicios foram feitos com JavaScript e para conseguir roda-los é preciso do NodeJs instalado no computador.
 
